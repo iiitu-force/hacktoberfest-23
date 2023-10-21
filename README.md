@@ -9,6 +9,12 @@ This repository is for open source contributions to [FORCE-IIITU](https://force-
 Participate in Hacktoberfest 2023 by contributing to this repository.
 All you have to do is raise a PR and get it merged.
 
+## Table of content
+
+1. [What is Hacktoberfest?](#what-is-hacktoberfest)
+1. [How to contribute?](#how-to-contribute)
+1. [How to get started with Git and GitHub?](#how-to-get-started-with-git-and-github)
+
 ## What is Hacktoberfest?
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
