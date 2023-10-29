@@ -6,7 +6,6 @@ int jumpSearch(int nums[], int item, int length)
 {
     // Finding block size to be jumped
     int step = sqrt(length);
-    cout << "step " << step;
     
     int lowerBound = 0;
 
